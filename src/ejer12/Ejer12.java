@@ -1,3 +1,11 @@
+/*
+Ejercicio 12
+Desarrollar una solución que permita ingresar y almacenar la nota (notas[])
+de todos los alumnos de un salón de clase y determinar el promedio final (prom)
+redondeado a dos decimales, si se sabe que la nota mayor se duplica y la nota
+menor se elimina. Mostrar el promedio. Consistenciar el ingreso de datos.
+
+*/
 
 package ejer12;
 
